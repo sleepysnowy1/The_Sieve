@@ -7,7 +7,7 @@ class Program
     
     static void Main(string[] args)
     {
-        string strChoice = null;
+        string? strChoice = "";
         Sieve sieve = new Sieve(); 
         int userChoice = 0; 
 
